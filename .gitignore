@@ -1,0 +1,5 @@
+shadownet
+*.key
+*.pem
+*.log
+*.tmp
